@@ -1,0 +1,14 @@
+version: '3'
+services:
+  servidor:
+    image: "sandyfabiola13/servidor_td:v1"
+    container_name: servidor2
+    ports:
+      - "5000:3000"
+    depends_on:
+      - front
+
+  front:
+   image: nginx:alpine
+   container_name: front
+    
