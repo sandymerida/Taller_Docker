@@ -16,9 +16,11 @@ Esta es una serie de 4 talleres básicos del proyecto de software [Docker](https
 ## Descripción
 El taller 1 trata de ejecutar los comandos básicos para la gestión de contenedores de Docker.
 
+El mapeo de puertos es un tema muy importante cuando utilizamos contenedores en cualquier servidor por eso lo vemos en el taller 2.
+
 El taller 3 nos ayuda a generar una imagen y subirla a un repositorio público en la nube llamado [dockerhub](https://hub.docker.com).
 
-Veamos como manejar de la forma más básica como crear y ejecutar un docker-compose en el taller 4.
+Veamos como manejar de la forma más básica un docker-compose en el taller 4.
 
 <br>
 
