@@ -42,6 +42,10 @@ Instalemos Apache:
 ```
 $ apt-get install apache2
 ```
+Iniciemos el servidor Apache:
+```
+$ /etc/init.d/apache2 start
+```
 Salgamos del container
 ```
 $ exit
